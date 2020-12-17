@@ -1,0 +1,17 @@
+{
+  "name": "newsapi_bot",
+  "version": "1.0.0",
+  "description": "A bot for news api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Gnommy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  }
+}
